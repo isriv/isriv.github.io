@@ -1,1 +1,31 @@
 theme: jekyll-theme-cayman
+
+#Site Settings
+title: Ishan Srivastava
+name: Ishan Srivastava
+
+#User specific content
+#Links that appear in the navigation bar
+primarylinks:
+  - title: Linkedin
+    url: https://www.linkedin.com/srivastavaishan
+  - title: GitHub
+    url: https://www.github.com/isriv
+
+#Keywords
+skills:
+  - Python
+  - Android Framework
+  - Automation
+  - Graph Theory
+  - WLAN
+
+#Work experience
+roles:
+  - title: System Software Engineering Intern
+    start: 2018
+    end: Ongoing
+    employer: Nvidia
+
+github:
+  - isriv/Code
