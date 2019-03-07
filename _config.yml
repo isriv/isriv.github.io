@@ -1,3 +1,4 @@
+#Build settings
 theme: jekyll-theme-cayman
 
 #Site Settings
@@ -9,8 +10,6 @@ name: Ishan Srivastava
 primarylinks:
   - title: Linkedin
     url: https://www.linkedin.com/srivastavaishan
-  - title: GitHub
-    url: https://www.github.com/isriv
 
 #Keywords
 skills:
@@ -26,6 +25,3 @@ roles:
     start: 2018
     end: Ongoing
     employer: Nvidia
-
-github:
-  - isriv/Code
